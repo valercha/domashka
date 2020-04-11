@@ -1,0 +1,30 @@
+body {
+	width: 70%;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+h1 {
+	font-size: 32px;
+	margin-bottom: -0.5em;
+}
+
+h2 {
+	margin-bottom: -0.5em;
+}
+
+h1, h2, h3 {
+	font-family: Arial, Verdana, sans-serif;
+}
+
+table, th, td {
+	border: 1px solid black;
+}
+
+figcaption {
+	font-style: italic;
+}
+
+figure {
+	float: right;
+}

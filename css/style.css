@@ -28,3 +28,11 @@ figcaption {
 figure {
 	float: right;
 }
+
+.table {
+	overflow: hidden;
+}
+
+.hide {
+	overflow: auto;
+}
